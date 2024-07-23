@@ -1,4 +1,4 @@
-module github.com/xitongsys/parquet-go-source
+module github.com/andrew-edgar/parquet-go-source
 
 go 1.16
 
@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/storage v1.21.0
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.6.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.1.0
-	github.com/IBM/ibm-cos-sdk-go v1.11.0 // indirect
+	github.com/IBM/ibm-cos-sdk-go v1.11.0
 	github.com/aws/aws-sdk-go v1.43.31
 	github.com/aws/aws-sdk-go-v2 v1.23.0
 	github.com/aws/aws-sdk-go-v2/config v1.25.3
@@ -21,5 +21,6 @@ require (
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.9.0
 	github.com/xitongsys/parquet-go v1.5.1
+	github.com/xitongsys/parquet-go-source v0.0.0-20240122235623-d6294584ab18
 	gocloud.dev v0.26.0
 )

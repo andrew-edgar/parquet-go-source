@@ -14,7 +14,7 @@ import (
 	"github.com/IBM/ibm-cos-sdk-go/aws/session"
 	"github.com/IBM/ibm-cos-sdk-go/service/s3"
 	"github.com/IBM/ibm-cos-sdk-go/service/s3/s3iface"
-	"github.com/IBM/ibm-cos-skd-go/service/s3/s3manager"
+	"github.com/IBM/ibm-cos-sdk-go/service/s3/s3manager"
 	"github.com/xitongsys/parquet-go/source"
 )
 
