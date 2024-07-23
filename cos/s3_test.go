@@ -12,8 +12,8 @@ import (
 	"github.com/IBM/ibm-cos-sdk-go/aws"
 	"github.com/IBM/ibm-cos-sdk-go/aws/request"
 	"github.com/IBM/ibm-cos-sdk-go/service/s3"
+	"github.com/andrew-edgar/parquet-go-source/cos/mocks"
 	"github.com/golang/mock/gomock"
-	"github.com/xitongsys/parquet-go-source/s3/mocks"
 )
 
 func TestSeek(t *testing.T) {
