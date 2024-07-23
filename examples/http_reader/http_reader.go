@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/xitongsys/parquet-go-source/http"
+	"github.com/andrew-edgar/parquet-go-source/http"
 	"github.com/xitongsys/parquet-go/reader"
 )
 

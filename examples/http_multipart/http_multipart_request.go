@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	source "github.com/xitongsys/parquet-go-source/http"
+	source "github.com/andrew-edgar/parquet-go-source/http"
 	"github.com/xitongsys/parquet-go/reader"
 )
 

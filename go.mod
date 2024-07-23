@@ -21,6 +21,5 @@ require (
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.9.0
 	github.com/xitongsys/parquet-go v1.5.1
-	github.com/xitongsys/parquet-go-source v0.0.0-20240122235623-d6294584ab18
 	gocloud.dev v0.26.0
 )
